@@ -1,5 +1,7 @@
 # skuDemo
 
+https://juejin.cn/post/7002746459456176158#heading-0
+
 > 项目描述
 > 商品详情，规格选择路径处理
 # skuDemo
